@@ -4,8 +4,11 @@
   "hash":  "cf5e9be80765322309ed7b9c3d9aedd28effd101bba86725afee9aa6844d82aa",
   "url": "https://download1075.mediafire.com/uasmx5vr5ybgO267IGVtbi7ZtWld3CEWKV33CqosVF_iycap1Z0CCF-dRZehJXFUXYreyi1BWeUfKL9MmzPqMWt1r-ym8CJy-2omvc-81Eshjsepvh-ifutTIAq32u3Sbs1at91ADaYz5S5kUctxK8detpnNgiY4rm59wrhD9nRw/g6ounbq3n7ij3b9/RERUN.7z",
   "homepage": "https://danidev.itch.io/rerun",
-  "shortcuts": "C:\Users\$env:USERNAME\scoop\apps\RERUN\current\Win64_3,RERUN"
+  "shortcuts": [
+    ["Win64_3\\RERUN.exe", "RERUN"]
+]   
 }
+
 
 
 
